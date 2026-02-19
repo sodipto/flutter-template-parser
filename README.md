@@ -25,8 +25,8 @@ main() {
 
   final List<TemplateModel> models = [
     TemplateModel(variable: 'FullName', value: 'Sodipto Saha'),
-    TemplateModel(variable: 'Age', value: '26'),
-    TemplateModel(variable: 'designation', value: 'Senior Software Engineer'),
+    TemplateModel(variable: 'Age', value: '29'),
+    TemplateModel(variable: 'designation', value: 'Senior Software Engineer II'),
     TemplateModel(variable: 'Skills', value: 'Flutter,C# And .NET Core'),
   ];
   
